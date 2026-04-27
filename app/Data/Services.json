@@ -1,13 +1,62 @@
 {
-    "services": [
-        {
-            "id": 1,
-            "title": "BYPASS SURGERY / CORONARY ARTERY BYPASS",
-            "description": "Coronary artery bypass grafting (CABG) is a type of surgery…",
-            "image": "https://drkanase.in/wp-content/uploads/2024/08/Services-img-1.png",
-            "thumbnail": "https://drkanase.in/wp-content/uploads/2024/08/8.jpg",
-            "link": "/bypass-surgery-coronary-artery-bypass-grafting-cabg-surgery/",
-            "buttonText": "Details"
-        }
-    ]
+  "services": [
+    {
+      "id": 1,
+      "title": "BYPASS SURGERY / CORONARY ARTERY BYPASS",
+      "description": "Coronary artery bypass grafting (CABG) is a type of surgery…",
+      "image": "https://drkanase.in/wp-content/uploads/2024/08/Services-img-1.png",
+      "thumbnail": "https://drkanase.in/wp-content/uploads/2024/08/8.jpg",
+      "link": "/bypass-surgery-coronary-artery-bypass-grafting-cabg-surgery/",
+      "buttonText": "Details"
+    },
+    {
+      "id": 2,
+      "title": "HEART VALVE SURGERIES",
+      "description": "Valvular Heart Disease is still very common in our country.…",
+      "image": "https://drkanase.in/wp-content/uploads/2024/08/Hero-img-5.png",
+      "thumbnail": "https://drkanase.in/wp-content/uploads/2024/08/5.jpg",
+      "link": "/heart-valve-surgery/",
+      "buttonText": "Details"
+    },
+    {
+      "id": 3,
+      "title": "MINIMALLY INVASIVE (MICS) / ENDOSCOPIC HEART SURGERY",
+      "description": "Cardiac surgery, also called heart surgery, involves…",
+      "image": "https://drkanase.in/wp-content/uploads/2024/08/Services-img-4.png",
+      "thumbnail": "https://drkanase.in/wp-content/uploads/2024/08/2.jpg",
+      "link": "/mic-endoscopic-surg/",
+      "buttonText": "Details"
+    },
+    {
+      "id": 4,
+      "title": "COMPLEX HEART SURGERIES",
+      "description": "Holes in the heart are simple congenital heart defects…",
+      "image": "https://drkanase.in/wp-content/uploads/2024/08/Services-img-2.png",
+      "thumbnail": "https://drkanase.in/wp-content/uploads/2024/08/1.jpg",
+      "link": "/complex-heart-surg/",
+      "buttonText": "Details"
+    },
+    {
+      "id": 5,
+      "title": "CARDIAC SURGERY",
+      "description": "Coronary artery bypass grafting (CABG) is a type of surgery…",
+      "image": "https://drkanase.in/wp-content/uploads/2024/08/Services-img-3.png",
+      "thumbnail": "https://drkanase.in/wp-content/uploads/2024/08/3.jpg",
+      "link": "/cardiac-surgery/",
+      "buttonText": "Details"
+    },
+    {
+      "id": 6,
+      "title": "OTHER HEART SURGERIES",
+      "description": "Services include Aortic Aneurysm Surgery and Aortic Dissection Surgery",
+      "image": "https://drkanase.in/wp-content/uploads/2024/08/Services-img-1.png",
+      "thumbnail": "https://drkanase.in/wp-content/uploads/2024/08/6.jpg",
+      "link": "/other-heart-surg/",
+      "buttonText": "Details",
+      "additionalServices": [
+        "Aortic Aneurysm Surgery",
+        "Aortic Dissection Surgery"
+      ]
+    }
+  ]
 }
