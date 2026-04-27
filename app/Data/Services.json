@@ -1,0 +1,13 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "BYPASS SURGERY / CORONARY ARTERY BYPASS",
+            "description": "Coronary artery bypass grafting (CABG) is a type of surgery…",
+            "image": "https://drkanase.in/wp-content/uploads/2024/08/Services-img-1.png",
+            "thumbnail": "https://drkanase.in/wp-content/uploads/2024/08/8.jpg",
+            "link": "/bypass-surgery-coronary-artery-bypass-grafting-cabg-surgery/",
+            "buttonText": "Details"
+        }
+    ]
+}
